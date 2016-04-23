@@ -13,7 +13,9 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="YEAH" />
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:text="ROBOT,2321" />
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
